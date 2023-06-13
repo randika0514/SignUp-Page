@@ -1,0 +1,35 @@
+.signUp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url(https://img.freepik.com/free-photo/cosmetics-product-advertising-stand-exhibition-wooden-podium-green-background-with-leaves-sha_1258-170625.jpg?w=900&t=st=1686554788~exp=1686555388~hmac=b71445b9958c94057971db9aaea71d6cfd1fbb7e5add2fa49b4b609626b5a8e7);
+    background-size: cover;
+    background-position: center;
+}
+
+form{
+    background: rgba(255, 255, 255, 0.755);
+    padding: 10px 60px;
+    border-radius: 10px;
+}
+
+h1{
+    color: darkgreen;
+    text-align: center;
+}
+
+button{
+    width: 100%;
+    height: 50px;
+    padding: 10px;
+    border: none;
+    background-color: rgb(9, 73, 9);
+    color: white;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
